@@ -1,0 +1,11 @@
+{
+    "firstName": "Will",
+    "lastName": "Hitch",
+    "fullName": "Will Hitch",
+    "headline": "Where there's a Will there's a way.",
+    "skills": ["JavaScript", "CSS", "HTML5", "Shopify", "Online Advertising"],
+    "phone": "(720) 544-1984",
+    "email": "hitch.will@gmail.com",
+    "github": "https://github.com/willhitch",
+    "linkedIn": "https://www.linkedin.com/in/william-hitch-6a2373182/"
+}

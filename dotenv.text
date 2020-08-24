@@ -1,0 +1,6 @@
+MONGODB_URI=mongodb+srv://dbUser:4,u%5\>f3vWGDHet@cluster0.rkarf.mongodb.net/dbUser?retryWrites=true&w=majority
+
+NODEMAILER_USER=5bYvnA@gmail.com
+NODEMAILER_PASS=ENGJGhGqmQJSP7vj
+
+EMAIL=hitch.will@gmail.com
