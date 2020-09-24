@@ -16,7 +16,7 @@ const Portfolio = () => {
   useEffect(() => {
     axios
       .get("/api/projects/")
-      .then((res) => setProjects(res.data))
+      .then((res) => setProjects(projectsJSON))
       .catch((err) => console.log(err));
   }, []);
 

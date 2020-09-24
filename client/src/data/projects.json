@@ -1,15 +1,24 @@
 [
   {
     "id": "0",
+    "name": "Travel Buddy",
+    "slug": "Travel-Buddy",
+    "description": "Travel Buddy helps you plan your next great adventure.",
+    "screenshot": "./images/travel-buddy.png",
+    "github": "https://github.com/willhitch/travel-budget",
+    "demo": "https://stark-spire-95951.herokuapp.com/"
+  },
+  {
+    "id": "1",
     "name": "Fetch",
     "slug": "fetch-app",
-    "description": "Fetch is a dog dating app that allows users to create a profile and place it on a local map.",
+    "description": "A dating app that allows users to create a profile and place it on a local map.",
     "screenshot": "./images/fetch.png",
     "github": "https://github.com/willhitch/Fetch",
     "demo": "https://voyage-choucroute-01318.herokuapp.com/"
   },
   {
-    "id": "1",
+    "id": "2",
     "name": "Note Taker",
     "slug": "note-taker",
     "description": "This app allows you to create, save, and delete notes",
@@ -18,25 +27,7 @@
     "demo": "https://radiant-beyond-61460.herokuapp.com/"
   },
   {
-    "id": "2",
-    "name": "Eat The Burger",
-    "slug": "eat-the-burger",
-    "description": "An app that allows users to make 'burgers' and 'devour' them. Uses Node, Express, and Handlebars",
-    "screenshot": "./images/eat-da-burger.png",
-    "github": "https://github.com/willhitch/eat_da_burger",
-    "demo": "https://multicultural-loon-30681.herokuapp.com/"
-  },
-  {
     "id": "3",
-    "name": "In Or Out ",
-    "slug": "in-or-out",
-    "description": "An app for food lovers. It uses the Yelp API and a Recipe API to give users dining inspiration to cook or order",
-    "screenshot": "./images/inorout.png",
-    "github": "https://github.com/willhitch/inorout",
-    "demo": "https://willhitch.github.io/inorout/"
-  },
-  {
-    "id": "4",
     "name": "README.md CLI App",
     "slug": "readme-cli-app",
     "description": "An app that uses Inquirer to allow users to make a basic README.md with little to no headache",
@@ -45,12 +36,21 @@
     "demo": "https://github.com/willhitch/homework_8"
   },
   {
-    "id": "5",
+    "id": "4",
     "name": "Password Generator",
     "slug": "password-generator",
     "description": "A random password generator using JavaScript",
     "screenshot": "./images/password-generator.png",
     "github": "https://github.com/willhitch/homework_3",
     "demo": "https://willhitch.github.io/homework_3/"
+  },
+  {
+    "id": "5",
+    "name": "In Or Out ",
+    "slug": "in-or-out",
+    "description": "An app for food lovers. It uses the Yelp API and a Recipe API to give users dining inspiration to cook or order",
+    "screenshot": "./images/inorout.png",
+    "github": "https://github.com/willhitch/inorout",
+    "demo": "https://willhitch.github.io/inorout/"
   }
 ]
